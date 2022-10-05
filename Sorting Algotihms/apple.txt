@@ -1,0 +1,2 @@
+hi Mowa -this is located from specific directory
+this file has been read Suc·cess·ful·ly
